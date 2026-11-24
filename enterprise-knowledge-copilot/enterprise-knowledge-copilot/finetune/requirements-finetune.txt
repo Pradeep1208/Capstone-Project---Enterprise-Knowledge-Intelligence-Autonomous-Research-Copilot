@@ -1,0 +1,6 @@
+# GPU environment only (e.g. Google Colab). Not needed for the Streamlit app.
+transformers
+peft
+accelerate
+bitsandbytes
+requests
